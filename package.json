@@ -4,7 +4,7 @@
   "description": "SharePoint data fetcher API for Costing Dashboard",
   "private": true,
   "engines": {
-    "node": "18"
+    "node": "24"
   },
   "scripts": {
     "start": "vercel dev",
